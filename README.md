@@ -1,1 +1,2 @@
-export GOOGLE_APPLICATION_CREDENTIALS="/Users/abraham_serrano/Documents/node_course/node-fazt/node-firebase-example-db872-firebase-adminsdk-i15ah-b807cfcb1f.json"
+Para instalar dependencias -npm i-
+Formulario para de datos creado con NodeJS y almacenados en la nube con Firebase
